@@ -1,3 +1,3 @@
 # JavaScript Fundamentals
 
-GitHub Fundamentals, too.
+GitHub Fundamentals, too...
